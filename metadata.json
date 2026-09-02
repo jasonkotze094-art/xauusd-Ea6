@@ -1,0 +1,6 @@
+{
+  "name": "Tradeport EA",
+  "description": "Automated Forex & Indices Trading Bot Companion with live MT4/MT5 scalping signals, risk management, and EA controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
